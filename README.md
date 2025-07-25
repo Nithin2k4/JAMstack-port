@@ -27,6 +27,4 @@ You can deploy this project using GitHub Pages or Netlify for a live preview.
 - `contact.html` - Contact page
 - `assets/` - For images or custom CSS
 
----
 
-Feel free to remix and improve the design!
