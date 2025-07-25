@@ -1,0 +1,11 @@
+{
+  "name": "sai-nithin-parshi-portfolio",
+  "version": "1.0.0",
+  "description": "Static portfolio site for Sai Nithin Parshi",
+  "scripts": {
+    "start": "serve ."
+  },
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+}
